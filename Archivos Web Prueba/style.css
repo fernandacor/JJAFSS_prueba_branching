@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 h1 {
     font-family: 'Courier New', Courier, monospace;
 }
+=======
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+>>>>>>> d43c33b17050bbc86658879b217c0db5da9d87fb
